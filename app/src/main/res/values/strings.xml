@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">xml lesson</string>
+    <string name="ij">Восемь</string>
+    <string name="_3123">3123</string>
+    <string name="_3424324">3424324</string>
+    <string name="_23312424524">23312424524</string>
+    <string name="r">Текст</string>
+    <string name="df">Кнопка</string>
 </resources>
